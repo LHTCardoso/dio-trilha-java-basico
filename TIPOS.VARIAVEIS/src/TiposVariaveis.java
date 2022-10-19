@@ -5,8 +5,6 @@ public class TiposVariaveis {
 
         String meuNome = "LuizCardoso";
         
-        
-        
         double salarioMinimo = 1300.33;
         short numeroCurto = 1;
         int numeroNormal = numeroCurto;
